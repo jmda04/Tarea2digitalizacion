@@ -4,7 +4,7 @@
 Este es un sitio muy **sencillo** sobre Pokémon.
 
 ## Contenido
-- [Historia de los Pokémon](carpeta/Pagina2.md)
+- [Historia de los Pokémon](https://jmda04.github.io/Tarea-digitalizacion-parte-2/)
 - [Página oficial de Pokémon](https://www.pokemon.com/)
 
 
