@@ -1,4 +1,4 @@
-indexmd
+index.md
 # Bienvenido al mundo Pokémon
 
 Este es un sitio muy **sencillo** sobre Pokémon.
