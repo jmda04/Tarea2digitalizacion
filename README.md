@@ -4,7 +4,7 @@
 Este es un sitio muy **sencillo** sobre Pokémon.
 
 ## Contenido
-- [Historia de los Pokémon](pagina2.md)
+- [Historia de los Pokémon](paginas/pagina2.md)
 - [Página oficial de Pokémon](https://www.pokemon.com/)
 
 
